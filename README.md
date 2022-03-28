@@ -1,4 +1,4 @@
-# Discord-token-grabber
+# Discord-token-grabber (Codes gets pushes asap (in like 5 hrs))
 
 - Only use for educational purposes dont abuse the program or the source.
 - C# Program that grabs Discord Tokens from Browsers like Firefox, Chrome and Opera GX.
